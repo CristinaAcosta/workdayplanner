@@ -1,9 +1,9 @@
 # workdayplanner
 
-## Links: 
+## Links: https://cristinaacosta.github.io/workdayplanner/
 
 ## Description:
-
+    A working calendar where the user is able to set up their plans for a 9AM - 5PM business day. They can save these events to local storage in order to keep their information when they revisit the site. The calendar operates on real time. 
 
 ## Technologies Used:
 - HTML
