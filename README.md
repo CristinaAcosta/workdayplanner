@@ -1,6 +1,8 @@
 # workdayplanner
 
-## Links: https://cristinaacosta.github.io/workdayplanner/
+## Title: Workday Calendar
+
+## Link: https://cristinaacosta.github.io/workdayplanner/
 
 ## Description:
     A working calendar where the user is able to set up their plans for a 9AM - 5PM business day. They can save these events to local storage in order to keep their information when they revisit the site. The calendar operates on real time. 
@@ -12,9 +14,11 @@
 - JQuery
 
 ## Learned:
-
+I learned how to do some JQuery on doing strings and how to use Momentem. This was a challenge since the items would not save onto local storage. 
     
 ## Website Images:
+
+<img width="1175" alt="Calendar" src="https://user-images.githubusercontent.com/74034987/108453524-81132400-721f-11eb-810d-2bc62c838d0c.png">
 
 ## Author:
 - Cristina Acosta (cacost5695@yahoo.com)
